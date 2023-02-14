@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heartbeat", "Heartbeat.csproj", "{18D3A48E-35F1-4913-86D5-17791C220929}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heartbeat", "Heartbeat\Heartbeat.csproj", "{0713F1E8-0CAC-4E26-936D-3417177DA2FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{18D3A48E-35F1-4913-86D5-17791C220929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{18D3A48E-35F1-4913-86D5-17791C220929}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{18D3A48E-35F1-4913-86D5-17791C220929}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{18D3A48E-35F1-4913-86D5-17791C220929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0713F1E8-0CAC-4E26-936D-3417177DA2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0713F1E8-0CAC-4E26-936D-3417177DA2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0713F1E8-0CAC-4E26-936D-3417177DA2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0713F1E8-0CAC-4E26-936D-3417177DA2FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C9F5C045-843D-492B-B99A-657D4A914FC1}
+		SolutionGuid = {BFAE36B7-30DF-4335-B061-80D72825AE17}
 	EndGlobalSection
 EndGlobal
